@@ -1,4 +1,4 @@
-# Vocab Curve
+8# Vocab Curve
 
 An interactive vocabulary analysis tool for language learners. Quantifies vocabulary progression as you read, visualizes coverage across texts, and exports frequency-tiered vocabulary lists for Anki.
 
